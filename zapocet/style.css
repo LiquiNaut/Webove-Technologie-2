@@ -1,0 +1,23 @@
+html,
+body{
+    height: 100%;
+}
+
+#cover {
+    background: #222 url('background.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#cover-caption {
+    width: 100%;
+}
+
+#inputbox{
+    border-radius: 20px;
+    width: 70%;
+}
