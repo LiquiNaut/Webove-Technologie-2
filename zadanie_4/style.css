@@ -1,0 +1,28 @@
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+    color: black !important;
+
+    border-color: aliceblue;
+}
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate
+{
+    color: black;
+    border-color: aliceblue;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+#test{
+    display: block;
+    justify-content: center;
+    justify-items: center;
+}
+
+a{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
